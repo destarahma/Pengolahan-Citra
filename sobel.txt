@@ -1,0 +1,23 @@
+import cv2
+import numpy as np
+import matplotlib.pyplot as plt
+
+def sobel_edge(image):
+    gx = cv2.Sobel(image, cv2.CV_64F, 1, 0, ksize=3)
+    gy = cv2.Sobel(image, cv2.CV_64F, 0, 1, ksize=3)
+    magnitude = np.sqrt(gx**2 + gy**2)
+    return np.uint8(np.clip(magnitude, 0, 255))
+
+# ==== PATH GAMBAR (GANTI SENDIRI) ====
+img = cv2.imread(r"C:\VScode\citra kelompok\gambar.jpg", cv2.IMREAD_GRAYSCALE)
+
+if img is None:
+    print("ERROR: Gambar tidak ditemukan!")
+    exit()
+
+edges = sobel_edge(img)
+
+plt.imshow(edges, cmap='gray')
+plt.title("Sobel Edge")
+plt.axis('off')
+plt.show()
