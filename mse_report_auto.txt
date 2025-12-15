@@ -1,0 +1,95 @@
+
+=== MSE untuk folder: noise_output ===
+
+gray_land_gauss_high.png -> hasil_landscape_grayscale.png : MSE = 824.1367529296875
+gray_land_gauss_low.png -> hasil_landscape_grayscale.png : MSE = 99.4495703125
+gray_land_sp_high.png -> landscape_citra.png : MSE = 4449.114801432292
+gray_land_sp_low.png -> hasil_landscape_grayscale.png : MSE = 828.5179793294271
+gray_port_gauss_high.png -> hasil_portrait_grayscale.png : MSE = 850.4336059570312
+gray_port_gauss_low.png -> hasil_portrait_grayscale.png : MSE = 99.62194905598959
+gray_port_sp_high.png -> portrait_citra.png : MSE = 4663.09586344401
+gray_port_sp_low.png -> hasil_portrait_grayscale.png : MSE = 774.3847005208333
+rgb_land_gauss_high.png -> hasil_landscape_grayscale.png : MSE = 978.6734033203124
+rgb_land_gauss_low.png -> hasil_landscape_grayscale.png : MSE = 280.5575200737847
+rgb_land_sp_high.png -> landscape_citra.png : MSE = 4275.392803548177
+rgb_land_sp_low.png -> hasil_landscape_grayscale.png : MSE = 1018.3745705837673
+rgb_port_gauss_high.png -> hasil_portrait_grayscale.png : MSE = 1562.7481553819443
+rgb_port_gauss_low.png -> hasil_portrait_grayscale.png : MSE = 868.0614046223958
+rgb_port_sp_high.png -> portrait_citra.png : MSE = 4048.423484700521
+rgb_port_sp_low.png -> hasil_portrait_grayscale.png : MSE = 1508.0001326497395
+
+=== MSE untuk folder: min_output ===
+
+MIN_gray_land_gauss_high.png -> landscape_citra.png : MSE = 2819.43545844184
+MIN_gray_land_gauss_low.png -> landscape_citra.png : MSE = 957.2529698350694
+MIN_gray_land_sp_high.png -> landscape_citra.png : MSE = 14847.005422363281
+MIN_gray_land_sp_low.png -> landscape_citra.png : MSE = 4442.391265733507
+MIN_gray_port_gauss_high.png -> portrait_citra.png : MSE = 2389.060419921875
+MIN_gray_port_gauss_low.png -> portrait_citra.png : MSE = 906.869765625
+MIN_gray_port_sp_high.png -> portrait_citra.png : MSE = 8525.589316677517
+MIN_gray_port_sp_low.png -> portrait_citra.png : MSE = 2869.404009331597
+MIN_rgb_land_gauss_high.png -> hasil_landscape_grayscale.png : MSE = 2543.5768047417537
+MIN_rgb_land_gauss_low.png -> hasil_landscape_grayscale.png : MSE = 876.3614849175348
+MIN_rgb_land_sp_high.png -> landscape_citra.png : MSE = 14759.929618598091
+MIN_rgb_land_sp_low.png -> hasil_landscape_grayscale.png : MSE = 4379.283748643663
+MIN_rgb_port_gauss_high.png -> hasil_portrait_grayscale.png : MSE = 3144.4144178602432
+MIN_rgb_port_gauss_low.png -> hasil_portrait_grayscale.png : MSE = 1277.3311564127605
+MIN_rgb_port_sp_high.png -> portrait_citra.png : MSE = 8242.788254937066
+MIN_rgb_port_sp_low.png -> hasil_portrait_grayscale.png : MSE = 3065.1007188585068
+
+=== MSE untuk folder: max_output ===
+
+MAX_gray_land_gauss_high.png -> landscape_citra.png : MSE = 2564.022620713976
+MAX_gray_land_gauss_low.png -> landscape_citra.png : MSE = 875.2977048068576
+MAX_gray_land_sp_high.png -> landscape_citra.png : MSE = 11928.708285047744
+MAX_gray_land_sp_low.png -> landscape_citra.png : MSE = 3672.666579861111
+MAX_gray_port_gauss_high.png -> portrait_citra.png : MSE = 3526.7989615885417
+MAX_gray_port_gauss_low.png -> portrait_citra.png : MSE = 1241.2113028971355
+MAX_gray_port_sp_high.png -> portrait_citra.png : MSE = 16894.248034939235
+MAX_gray_port_sp_low.png -> portrait_citra.png : MSE = 5192.563727484809
+MAX_rgb_land_gauss_high.png -> hasil_landscape_grayscale.png : MSE = 2654.244034559462
+MAX_rgb_land_gauss_low.png -> hasil_landscape_grayscale.png : MSE = 940.6207020399305
+MAX_rgb_land_sp_high.png -> landscape_citra.png : MSE = 11807.294052734374
+MAX_rgb_land_sp_low.png -> hasil_landscape_grayscale.png : MSE = 3691.6347338867185
+MAX_rgb_port_gauss_high.png -> hasil_portrait_grayscale.png : MSE = 2437.0746997070314
+MAX_rgb_port_gauss_low.png -> hasil_portrait_grayscale.png : MSE = 881.3390844726563
+MAX_rgb_port_sp_high.png -> portrait_citra.png : MSE = 16563.668103027343
+MAX_rgb_port_sp_low.png -> hasil_portrait_grayscale.png : MSE = 4737.0983078342015
+
+=== MSE untuk folder: median_output ===
+
+MEDIANgray_land_gauss_high.png -> hasil_landscape_grayscale.png : MSE = 221.683544921875
+MEDIANgray_land_gauss_low.png -> hasil_landscape_grayscale.png : MSE = 80.53947102864583
+MEDIANgray_land_sp_high.png -> landscape_citra.png : MSE = 316.20556586371526
+MEDIANgray_land_sp_low.png -> hasil_landscape_grayscale.png : MSE = 63.712535807291665
+MEDIANgray_port_gauss_high.png -> hasil_portrait_grayscale.png : MSE = 155.06735595703125
+MEDIANgray_port_gauss_low.png -> hasil_portrait_grayscale.png : MSE = 22.50073486328125
+MEDIANgray_port_sp_high.png -> portrait_citra.png : MSE = 813.4825794813368
+MEDIANgray_port_sp_low.png -> hasil_portrait_grayscale.png : MSE = 4.871680501302083
+MEDIANrgb_land_gauss_high.png -> hasil_landscape_grayscale.png : MSE = 401.2482918294271
+MEDIANrgb_land_gauss_low.png -> hasil_landscape_grayscale.png : MSE = 262.60925130208335
+MEDIANrgb_land_sp_high.png -> landscape_citra.png : MSE = 131.95707085503471
+MEDIANrgb_land_sp_low.png -> hasil_landscape_grayscale.png : MSE = 247.6114963107639
+MEDIANrgb_port_gauss_high.png -> hasil_portrait_grayscale.png : MSE = 919.8942279730903
+MEDIANrgb_port_gauss_low.png -> hasil_portrait_grayscale.png : MSE = 792.0463872612847
+MEDIANrgb_port_sp_high.png -> portrait_citra.png : MSE = 45.66200493706597
+MEDIANrgb_port_sp_low.png -> hasil_portrait_grayscale.png : MSE = 769.028512641059
+
+=== MSE untuk folder: mean_output ===
+
+mean_gray_land_gauss_high.png -> landscape_citra.png : MSE = 358.5180162217882
+mean_gray_land_gauss_low.png -> landscape_citra.png : MSE = 271.7931890190972
+mean_gray_land_sp_high.png -> landscape_citra.png : MSE = 955.953492296007
+mean_gray_land_sp_low.png -> hasil_landscape_grayscale.png : MSE = 175.19964111328125
+mean_gray_port_gauss_high.png -> portrait_citra.png : MSE = 859.9006857638889
+mean_gray_port_gauss_low.png -> hasil_landscape_grayscale.png : MSE = 10457.127902832031
+mean_gray_port_sp_high.png -> portrait_citra.png : MSE = 1321.1207297092014
+mean_gray_port_sp_low.png -> hasil_landscape_grayscale.png : MSE = 10147.304576822917
+mean_rgb_land_gauss_high.png -> hasil_landscape_grayscale.png : MSE = 337.1822601996528
+mean_rgb_land_gauss_low.png -> hasil_landscape_grayscale.png : MSE = 265.1025756835937
+mean_rgb_land_sp_high.png -> landscape_citra.png : MSE = 743.740036078559
+mean_rgb_land_sp_low.png -> hasil_landscape_grayscale.png : MSE = 339.28658013237845
+mean_rgb_port_gauss_high.png -> hasil_portrait_grayscale.png : MSE = 841.1924009874132
+mean_rgb_port_gauss_low.png -> hasil_portrait_grayscale.png : MSE = 790.4652392578125
+mean_rgb_port_sp_high.png -> portrait_citra.png : MSE = 596.3990606011284
+mean_rgb_port_sp_low.png -> hasil_portrait_grayscale.png : MSE = 807.2333493381076
